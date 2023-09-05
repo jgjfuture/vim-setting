@@ -1,2 +1,3 @@
 inoremap <silent> jj <esc>
-
+nnoremap <silent> <C-j> 5j
+nnoremap <silent> <C-k> 5k
